@@ -32,6 +32,6 @@ By Kaila Nichols
   * Explain
 
 ### Creativity
-* Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
+* The piece used somc reative elements. For example, while using the table, e piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
   * How?
-  * Rate effectiveness on scale of 1-5.
+  * Rating: 4
