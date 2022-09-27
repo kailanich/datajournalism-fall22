@@ -40,3 +40,4 @@ By Kaila Nichols
 
 2. Earlier today we had a meeting to learn about the OpenSecrets and Follow the Money platforms. It might be interesting to explore Dark Money and how much has been donated to either party in the most recent elections. This would be relevant amid the Senate's failure to advance the Disclose Act last week. This project would be an effort thorugh the election since data from July-October will be released on October 15. 
 
+[Additional Weekly reading/essay from Vox: Who’s really using up the water in the American West?](https://www.youtube.com/watch?v=f0gN1x6sVTc&t=223s)
