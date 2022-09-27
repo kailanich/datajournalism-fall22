@@ -1,6 +1,8 @@
 # Assignment 1
 By Kaila Nichols
 
+Article: https://www.bloomberg.com/graphics/2020-ppp-loans-data-disclosure/
+
 ### Clarity and accuracy
 * I was able to immediately identify the central idea the reporter was trying to explain from the headline. (Rating: 4)  
   * The writer wants to present a visual of where PPP funding went across each state along with a measure of which places received the most or least. 
