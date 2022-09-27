@@ -36,9 +36,7 @@ By Kaila Nichols
 
 ### Story Project Ideas
 
-1. Climate change is a very relevant topic on the national and world stage. A recent study found that a third of all plant and animal species could be extinct by 2070 due to climate change. It has also been a key part of the Inflation Reduction Act. A breakdown of investment into climate change leading up to the midterms might also show where money is going and whether it is impactful. 
-
- Most data will come from the US Census and EPA. One worry is that some descriptions of investment may be very broad and ambiguous, so I would laso research on the state level with offices and agencies. For this story, I’d talk to officials, but may also need some people with a personal connection to the story.
+1. Climate change is a very relevant topic on the national and world stage. A recent study found that a third of all plant and animal species could be extinct by 2070 due to climate change. It has also been a key part of the Inflation Reduction Act. A breakdown of investment into climate change leading up to the midterms might also show where money is going and whether it is impactful. Most data will come from the US Census and EPA. One worry is that some descriptions of investment may be very broad and ambiguous, so I would laso research on the state level with offices and agencies. For this story, I’d talk to officials, but may also need some people with a personal connection to the story.
 
 2. Earlier today we had a meeting to learn about the OpenSecrets and Follow the Money platforms. 
 
