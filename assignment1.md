@@ -2,9 +2,8 @@
 By Kaila Nichols
 
 ### Clarity and accuracy
-* I was able to immediately identify the central idea the reporter was trying to explain. (Rating: 4)  
+* I was able to immediately identify the central idea the reporter was trying to explain from the headline. (Rating: 4)  
   * The writer wants to present a visual of where PPP funding went across each state along with a measure of which places received the most or least. 
-  * Location: Headline
 
 * I understood how to read the visualization, but felt it was easier to hover above each state and read the percentages than using the colors. (Rating: 3)
   * While it is helpful to have that option, the individual colors should also be easily differentiated. 
