@@ -9,7 +9,7 @@ Article: https://www.bloomberg.com/graphics/2020-ppp-loans-data-disclosure/
 
 * I understood how to read the visualization, but felt it was easier to hover above each state and read the percentages than using the colors. (Rating: 3)
   * While it is helpful to have that option, the individual colors should also be easily differentiated. 
-  * The navigation could’ve shown the correlation or difference between “% Receiving Loans” and “% Jobs Supported.” if there was some correlation between 
+  * The navigation could’ve shown the correlation or difference between “% Receiving Loans” and “% Jobs Supported.” 
 
 * The data is mostly accurate according to the writer. (Rating: 4)
   * The article mentions that some loans went to self-employed people, so I’m curious if this can affect the numbers a little bit. A rough estimate of how many people were labelled self-employed would give more context. I also wonder if there are some small businesses that don’t fit into just one category. 
