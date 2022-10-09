@@ -1,7 +1,7 @@
 # Assignment 2: What's out there
 Kaila Nichols
 
-## Infrastructure bill Dataset
+## Infrastructure Bill Dataset
 [Department of Transportation 2022](https://docs.google.com/spreadsheets/d/1BlliC-QIqMTMC6-gSYwLifxSE0woPjwNIGBo5I7-qsk/edit?usp=sharing)
 
 ## Story research
@@ -15,11 +15,3 @@ Write a summary for your editor (me) of what has already been done and -- more i
 In your summary, include links to the stories you find on your topic.
 
 In addition to searching for other stories that have been done on this topic, please identify at least three high-quality datasets you could use in your story (you can change your mind on these later, but this is just to get you thinking about what's out there). For each, please write why the data source is trustworthy and what (if any) limitations it might have.
-
-Be prepared to discuss with me and the class what you find. 
-
-You only need to turn in one assignment for your group, but it would be helpful for me if everyone had a link to it in their Github repo for grading purposes. So it should work something like this:
-
-* One person in group uploads the written markdown file to Github
-	* That person shares the URL of the file with other students
-* Other students in group create an assignment2.md file with a link to the URL
