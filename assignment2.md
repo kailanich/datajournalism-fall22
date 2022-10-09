@@ -1,8 +1,7 @@
 # Assignment 2: What's out there
 Kaila Nichols
 
-## Make your own datasets - group or individual
-Track the following (imaginary) grants from infrastructure bill projects funding (with Google drive link)
+## Infrastructure bill Dataset
 
 {google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vTzE-ZnTKdpoBNwQ7mxN-4W_DSPKNdYmEQ2i5-p6_u_WxhiCq1IjLA--I5k6lRWWLCTogBcZmgz8rXy/pub?gid=0&single=true&output=csv{google_docs}
 
