@@ -29,6 +29,6 @@ For each, please write why the data source is trustworthy and what (if any) limi
 ## Datasets Examples
 1. [Wesleyan Media Project](https://mediaproject.wesleyan.edu/releases-100622/) - Wesleyan was established in 2010 to track advertising in federal elections. It also seems like a reputable research tool and regularly updates findings in a monthly "Advertising Issue Spotlight." I think I'll be able to find a lot of data and table sets. However, I'm not sure if it gives away data in .csv format. 
 2. [Bully Pulpit Interactive Political Ad Tracker](https://politicaladstracker.com/about-data) - Bully Pullpit was cited in several articles as a source of data. I think its a great tool for analyzing Facebook/Instagram and Google reports. It allows me to sort by advertiser, state, and topic. Once again, the pitfall is I would have to go directly to Facebook and Google to analyze the data myself in my own spreadsheet. 
-    [Google Poltical Adveritising in United States](https://adstransparency.google.com/political?political&region=US) 
-    [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&media_type=all)
-3. [Open Secrets’ Ad Data](https://www.opensecrets.org/ad-data/) - Open Secrets is another credible source for data. This section of their site
+    * [Google Poltical Adveritising in United States](https://adstransparency.google.com/political?political&region=US) 
+    * [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&media_type=all)
+3. [Open Secrets’ Ad Data](https://www.opensecrets.org/ad-data/) - Open Secrets is another credible source for data. This section of their site contains broadcast filings to the Federal Communications Commission. 
