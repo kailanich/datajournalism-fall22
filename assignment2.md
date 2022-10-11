@@ -28,5 +28,5 @@ In addition to searching for other stories that have been done on this topic, pl
 
 ## Datasets Examples
 1. [Wesleyan Media Project](https://mediaproject.wesleyan.edu/releases-100622/) - 
-2. tktk
-3. tktk
+2. [Bully Pulpit Interactive Political Ad Tracker](https://politicaladstracker.com/about-data) - 
+3. [Google Poltical Adveritising in United States](https://adstransparency.google.com/political?political&region=US) - 
