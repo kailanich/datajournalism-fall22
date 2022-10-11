@@ -24,8 +24,6 @@ One report I found from Axios broke down the data from Wesleyan, Kantar and AdIm
 
 However, what struck me is that there weren't many stories trying to find correlation between the location and where the advertisement money wasn't spent along with a comparision into the election results. What places are getting the most investment (digital or television ads)? I'm also curious if there is a way to map out the topic and party? 
 
-For each, please write why the data source is trustworthy and what (if any) limitations it might have.
-
 ## Datasets Examples
 1. [Wesleyan Media Project](https://mediaproject.wesleyan.edu/releases-100622/) - Wesleyan was established in 2010 to track advertising in federal elections. It also seems like a reputable research tool and regularly updates findings in a monthly "Advertising Issue Spotlight." I think I'll be able to find a lot of data and table sets. However, I'm not sure if it gives away data in .csv format. 
 2. [Bully Pulpit Interactive Political Ad Tracker](https://politicaladstracker.com/about-data) - Bully Pullpit was cited in several articles as a source of data. I think its a great tool for analyzing Facebook/Instagram and Google reports. It allows me to sort by advertiser, state, and topic. Once again, the pitfall is I would have to go directly to Facebook and Google to analyze the data myself in my own spreadsheet. 
