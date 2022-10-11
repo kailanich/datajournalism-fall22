@@ -6,9 +6,7 @@ Kaila Nichols
 
 ## Story research
 
-I decided to change the focus of my topic to focus the following question(s): Does political ad spending impact elections in battleground states? How has political ad spending changed over time? Is there an extreme change in the different areas (broadcast, newspaper, billboards, digital/social media)?
-
-I want to focus on federal elections. 
+I decided to change the focus of my topic to focus the following question(s): Does political ad spending impact federal elections in battleground states? How has political ad spending changed over time? Is there an extreme change in the different areas (broadcast, newspaper, billboards, digital/social media) based on topic?
 
 One of the main areas that have been covered is whether negative or positive ads have any impact on elections or the way people vote. 
 
