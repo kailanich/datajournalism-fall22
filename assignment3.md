@@ -4,7 +4,7 @@
 
 Read the [Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide)
 
-Write a short memo in `assignment3.md` listing the "bad data" issues you may find with data in reporting your final project, and how you may be able to address them. 
+I think some of the big issues I'll have in my search is that some of the data has already been filed as .pdf files. Since my main question also includes social media, some of the data may not be entirely trustworthy since the FCC doesn't regulate those platforms like broadcast television or radio. 
+Google ads might be a great resource. However, they don't track advertisements by issue, which would be a helpful element. Instead, they focus on candidates. 
 
--Unfortunately, a huge problem with some of the data is that it has been filed as .pdf files. 
--Hard to find data from social media since they legally do not have to report their information to the FCC. 
+How will I point this out in my report? 
