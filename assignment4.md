@@ -1,11 +1,6 @@
 # Assignment 4: Sketch a visualization
 
-Using [this data](../class6/cocoabeans.xlsx), I sorted each countriy's imports by year, using excel charts.
-Your sketch should include:
+Using [this data](../class6/cocoabeans.xlsx), I sorted each continent's imports by year, using excel charts.
 
-* A headline
-* Chatter/subhed
-* The visualization
-* Source line: **CBI (Centre for the Promotion of Imports)**
-* Credit line (your name)
+The first visualizes the percent share each continent imported in the years 2015-2019. 
 
