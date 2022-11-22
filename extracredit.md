@@ -10,5 +10,7 @@ Using data from the CDC, I created a bar chart that shows the number of vaccines
 In your repository, you should turn in:
 
 * CDC Data: https://data.cdc.gov/Vaccinations/Weekly-Cumulative-Doses-in-Millions-of-Influenza-V/k87d-gv3u
-* Follow up story: https://www.nytimes.com/2022/10/23/health/flu-covid-risk.html 
+* Follow up stories: 
+  * https://www.nytimes.com/2022/10/23/health/flu-covid-risk.html
+  * https://www.cnbc.com/2022/10/04/fewer-americans-plan-to-get-a-flu-shot-this-season-2022.html
 * An image file with your visualization OR a link to an image file (this means no interactivity)
